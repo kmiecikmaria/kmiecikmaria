@@ -1,6 +1,6 @@
 # Sobre mim
 
-- 👋 Olá meu nome é @kmiecikmaria
+- 👋 Olá meu nome é **@kmiecikmaria**
 - 👀 Eu estou interessada em aprender progamar outras linguagens
 - 🌱 Eu estou aprendendo a progamar recentemente linguagens de JavaScript e Scratch
 
